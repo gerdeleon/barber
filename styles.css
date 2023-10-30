@@ -1,0 +1,37 @@
+h2  {
+    text-align: center;
+    margin-bottom: 25px;
+}
+.logoNav{
+    width: 100px;
+    height: 100px;
+}
+.navbar {
+    background-color: #ECE4D0 !important;
+    color: #002D5A !important;
+}
+.navbar a {
+    color: #002D5A !important;
+}
+
+
+#contacto {
+    background-color: #ECE4D0 !important;
+    color: #000F30 !important;
+}
+#contacto a{
+    text-decoration: none;
+    color: #000F30 !important;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+   justify-self: center;
+}
+
+.navbar span {
+    color: #000F30 !important;
+}
